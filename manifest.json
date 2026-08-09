@@ -2,15 +2,15 @@
   "format_version": 2,
   "header": {
     "name": "Mystic Island",
-    "description": "Mystic Island Minecraft Bedrock addon",
-    "uuid": "8b2c1f50-7e44-4d9b-a831-52f6c8e17a03",
+    "description": "A huge Minecraft Bedrock adventure with custom monsters, bunkers, bosses, quests and 20,000 levels.",
+    "uuid": "7c4d9e21-8b52-4f17-a6c3-19e7d4b85062",
     "version": [1, 0, 0],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "3f91d6a2-5c78-46e0-b214-9a7d35c8f601",
+      "uuid": "b93f6a40-2d18-4c75-91e8-57a0c6e43d29",
       "version": [1, 0, 0]
     }
   ]
