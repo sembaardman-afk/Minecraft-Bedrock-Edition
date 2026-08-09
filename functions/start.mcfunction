@@ -1,13 +1,11 @@
 ```mcfunction
-# Mystic Island automatisch starten
+# Mystic Island starten
 
-function mystic_island:build_island
+function build_island
 
-# Spawnpunt op het eiland
-setworldspawn ~0 ~3 ~0
+setworldspawn ~ ~3 ~
 
-# Spelers naar het eiland
-tp @a ~0 ~3 ~0
+tp @a ~ ~3 ~
 
 say §bWelkom op Mystic Island!
 ```
