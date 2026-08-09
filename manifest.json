@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Mystic Island",
+    "description": "Mystic Island Minecraft Bedrock addon",
+    "uuid": "8b2c1f50-7e44-4d9b-a831-52f6c8e17a03",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "3f91d6a2-5c78-46e0-b214-9a7d35c8f601",
+      "version": [1, 0, 0]
+    }
+  ]
+}
